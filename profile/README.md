@@ -1,13 +1,13 @@
-# Sudory — Compliance Visibility
+## Sudory
 
-Sudory shows you your security gaps and which regulations they break. Run a free scan of any domain and get results mapped to ISO 27001, SOC 2, NIS2, DORA, and more — in about 30 seconds.
+We build compliance tooling that maps an organization's external security posture to the frameworks it has to meet: ISO 27001, SOC 2, NIS2 and DORA.
 
-## What it checks
+Most of our work is in **TypeScript**.
 
-Read-only public lookups across email security (SPF, DKIM, DMARC, MTA-STS), DNS and infrastructure (DNSSEC, MX, NS), transport security (TLS, HSTS), and web headers (CSP, X-Frame-Options) — each mapped to the ISO 27002 control and framework it affects.
+### Reporting a security issue
 
-## Links
+Please don't open public issues for vulnerabilities. Email **contact@sudory.com** instead.
 
-- Website: [sudory.com](https://sudory.com)
-- - Contact: contact@sudory.com
-  - 
+### Contact
+
+[sudory.com](https://sudory.com) · contact@sudory.com
