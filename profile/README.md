@@ -1,13 +1,23 @@
-## Sudory
+# Sudory
 
-We build compliance tooling that maps an organization's external security posture to the frameworks it has to meet: ISO 27001, SOC 2, NIS2 and DORA.
+**Prove your cyber resilience.**
 
-Most of our work is in **TypeScript**.
+Sudory continuously monitors your organization's external security posture and maps it to the frameworks you're accountable for: **NIS2, DORA, ISO 27001 and SOC 2**.
 
-### Reporting a security issue
+### What we do
 
-Please don't open public issues for vulnerabilities. Email **contact@sudory.com** instead.
+- **Outside-in visibility.** See your attack surface the way an attacker does, all the time, not once a year.
+- **Framework mapping.** Every finding is linked to the controls it affects in NIS2, DORA, ISO 27001 and SOC 2.
+- **Audit-ready evidence.** Turn posture data into evidence for regulators, auditors and your board.
+
+### Engineering
+
+Most of our work is in TypeScript. We care about secure defaults, clear code and shipping carefully.
+
+### Security
+
+Found a vulnerability? Please **don't open a public issue**. Report it privately to [contact@sudory.com](mailto:contact@sudory.com) and we'll respond promptly.
 
 ### Contact
 
-[sudory.com](https://sudory.com) · contact@sudory.com
+🌐 [sudory.com](https://sudory.com) · ✉️ [contact@sudory.com](mailto:contact@sudory.com)
